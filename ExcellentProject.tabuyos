@@ -68,6 +68,7 @@ git clone https://github.com/mercyblitz/tech-weekly.git
 git clone https://github.com/ctripcorp/apollo.git
 git clone https://github.com/bz51/SpringBoot-Dubbo-Docker-Jenkins.git
 
+# Lisp web 相关项目
 git clone https://github.com/redguardtoo/emacs.d.git
 git clone https://github.com/svenvc/KPAX.git
 git clone https://github.com/edicl/hunchentoot.git
@@ -84,4 +85,5 @@ git clone https://github.com/CodyReichert/awesome-cl.git
 git clone https://github.com/eudoxia0/lucerne.git
 git clone https://github.com/cffi/cffi.git
 git clone https://github.com/Clozure/ccl.git
-https://github.com/m2ym/cl-annot.git
+git clone https://github.com/m2ym/cl-annot.git
+git clone https://github.com/joaotavora/snooze.git
