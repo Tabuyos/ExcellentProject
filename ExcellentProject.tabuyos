@@ -72,6 +72,7 @@ git clone https://github.com/bz51/SpringBoot-Dubbo-Docker-Jenkins.git
 git clone https://github.com/redguardtoo/emacs.d.git
 git clone https://github.com/svenvc/KPAX.git
 git clone https://github.com/edicl/hunchentoot.git
+git clone https://github.com/edicl/chunga.git
 git clone https://github.com/skypher/weblocks.git
 git clone https://github.com/juan-reynoso/ucw-core.git
 git clone https://github.com/ikkiware/ucw-core.git
@@ -87,3 +88,10 @@ git clone https://github.com/cffi/cffi.git
 git clone https://github.com/Clozure/ccl.git
 git clone https://github.com/m2ym/cl-annot.git
 git clone https://github.com/joaotavora/snooze.git
+git clone https://github.com/roswell/roswell.git
+git clone https://github.com/LispCookbook/cl-cookbook.git
+git clone https://github.com/fukamachi/woo.git
+git clone https://github.com/enki/libev.git
+git clone https://github.com/kanaka/mal.git
+git clone https://github.com/Windfarer/mal-zh.git
+git clone https://github.com/manateelazycat/emacs-application-framework.git
