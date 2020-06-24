@@ -56,6 +56,9 @@ git clone https://github.com/2227324689/gpmall.git
 git clone https://github.com/yinjihuan/spring-cloud.git
 git clone https://github.com/sqshq/piggymetrics.git
 
+git clone https://github.com/iBase4J/iBase4J-SpringBoot.git
+git clone https://github.com/magit/magit.git
+
 # 国内比较火的微服务项目
 git clone https://gitee.com/log4j/pig.git
 git clone https://gitee.com/shuzheng/zheng.git
