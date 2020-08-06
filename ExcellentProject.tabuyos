@@ -98,3 +98,21 @@ git clone https://github.com/enki/libev.git
 git clone https://github.com/kanaka/mal.git
 git clone https://github.com/Windfarer/mal-zh.git
 git clone https://github.com/manateelazycat/emacs-application-framework.git
+git clone https://gitee.com/52itstyle/SPTools.git
+
+# HTTP
+git clone https://github.com/square/okhttp.git
+
+git clone https://github.com/aalansehaiyang/technology-talk.git
+git clone https://github.com/CarGuo/gsy_flutter_book.git
+
+# Microservice
+git clone https://github.com/oracle/helidon.git
+git clone https://github.com/quarkusio/quarkus.git
+git clone https://github.com/oracle/graal.git
+
+# Java Tool
+git clone https://github.com/looly/hutool.git
+
+# NAT
+git clone https://github.com/fatedier/frp.git
