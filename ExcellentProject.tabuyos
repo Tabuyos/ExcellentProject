@@ -116,3 +116,5 @@ git clone https://github.com/looly/hutool.git
 
 # NAT
 git clone https://github.com/fatedier/frp.git
+
+git clone https://github.com/jorgenschaefer/elpy.git
