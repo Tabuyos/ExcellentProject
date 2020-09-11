@@ -118,3 +118,16 @@ git clone https://github.com/looly/hutool.git
 git clone https://github.com/fatedier/frp.git
 
 git clone https://github.com/jorgenschaefer/elpy.git
+
+git clone https://github.com/antlr/antlr4.git
+git clone https://github.com/lujun9972/emacs-document.git
+git clone https://github.com/atykhonov/google-translate.git
+git clone https://github.com/LCTT/LFS-BOOK.git
+
+# Netty - Spring Boot
+git clone https://github.com/farsunset/netty-http-server.git
+git clone https://gitee.com/ckl111/Netty_Spring_MVC_Sample.git
+git clone https://github.com/Leibnizhu/spring-boot-starter-netty.git
+git clone https://github.com/wangmingco/netty-spring-boot-starter.git
+
+
