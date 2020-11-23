@@ -144,6 +144,7 @@ git clone https://github.com/9527567/QDULaTeXthesis-master.git
 
 # LeetCode
 git clone https://github.com/Jack-Cherish/LeetCode.git
+git clone https://github.com/MaskRay/LeetCode.git
 
 # C++
 git clone https://github.com/czs108/Cpp-Primer-5th-Notes-CN.git
@@ -151,4 +152,11 @@ git clone https://github.com/huangmingchuan/Cpp_Primer_Answers.git
 git clone https://github.com/Mooophy/Cpp-Primer.git
 git clone https://github.com/Mooophy/CLRS.git
 
+git clone https://github.com/MaskRay/emacs-ccls.git
 
+# Emacs
+git clone https://github.com/bbatsov/prelude.git
+git clone https://github.com/redguardtoo/emacs.d.git
+git clone https://github.com/purcell/emacs.d.git
+git clone https://github.com/emacs-china/hello-emacs.git
+git clone https://github.com/magnars/multiple-cursors.el.git
