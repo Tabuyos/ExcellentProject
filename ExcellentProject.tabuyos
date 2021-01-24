@@ -161,6 +161,7 @@ git clone https://github.com/EZLippi/Tinyhttpd.git
 git clone https://github.com/apache/apr.git
 git clone https://github.com/apache/httpd.git
 git clone https://github.com/lua/lua.git
+git clone https://github.com/GZYangKui/c_http_server.git
 
 git clone https://github.com/MaskRay/emacs-ccls.git
 
@@ -170,3 +171,11 @@ git clone https://github.com/redguardtoo/emacs.d.git
 git clone https://github.com/purcell/emacs.d.git
 git clone https://github.com/emacs-china/hello-emacs.git
 git clone https://github.com/magnars/multiple-cursors.el.git
+
+# Algorithm
+git clone https://github.com/labuladong/fucking-algorithm.git
+git clone https://github.com/SwordfallYeung/Interview_BigData.git
+
+# VertX
+git clone https://github.com/zandero/rest.vertx.git
+git clone https://github.com/GZYangKui/vertx-mall.git
